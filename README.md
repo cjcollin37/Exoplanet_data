@@ -1,2 +1,2 @@
-# Exoplanet_exploratory_descriptive_stats
-Just playing with NASA and ESA data
+# Exoplanet_data
+A collection of atmospheric retrievals, forward modeling, and descriptive stats.
